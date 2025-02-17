@@ -57,7 +57,7 @@ apt install git
 apt install nano 
 apt install python3
 apt install python3-pip
-git clone https://github.com/Aqid191161/ip-info-telegram-bot
+git clone https://github.com/Aqid191161/ip-info-telegram-bot.git
 cd ip-info-telegram-bot
 ```
  
